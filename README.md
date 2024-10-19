@@ -14,7 +14,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 - **Módulo:**  EDES
 - **Unidad de Trabajo:** 1º DAW A
 - **Fecha de Creación:**   19/10/2024
-- **Fecha de Entrega:** [Fecha de entrega]
+- **Fecha de Entrega:** 19/10/2024
 - **Alumno(s):** 
   - **Nombre y Apellidos:** Cesar Gabriel Ucha Sousa
   - **Correo electrónico:** cuchsou815@g.educaand.es
